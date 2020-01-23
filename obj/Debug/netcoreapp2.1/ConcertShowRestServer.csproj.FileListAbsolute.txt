@@ -1,0 +1,16 @@
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\bin\Debug\netcoreapp2.1\ConcertShowRestServer.deps.json
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\bin\Debug\netcoreapp2.1\ConcertShowRestServer.runtimeconfig.json
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\bin\Debug\netcoreapp2.1\ConcertShowRestServer.runtimeconfig.dev.json
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\bin\Debug\netcoreapp2.1\ConcertShowRestServer.dll
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\bin\Debug\netcoreapp2.1\ConcertShowRestServer.pdb
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\obj\Debug\netcoreapp2.1\ConcertShowRestServer.csprojAssemblyReference.cache
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\obj\Debug\netcoreapp2.1\ConcertShowRestServer.RazorAssemblyInfo.cache
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\obj\Debug\netcoreapp2.1\ConcertShowRestServer.RazorAssemblyInfo.cs
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\obj\Debug\netcoreapp2.1\ConcertShowRestServer.AssemblyInfoInputs.cache
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\obj\Debug\netcoreapp2.1\ConcertShowRestServer.AssemblyInfo.cs
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\obj\Debug\netcoreapp2.1\ConcertShowRestServer.RazorTargetAssemblyInfo.cache
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\obj\Debug\netcoreapp2.1\ConcertShowRestServer.dll
+C:\Users\Kevin\OneDrive\Arquitectura de Software\07 - Proyecto Segundo Parcial Rest\ConcertShowRestServer\obj\Debug\netcoreapp2.1\ConcertShowRestServer.pdb
